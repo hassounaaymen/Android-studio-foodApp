@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="number_code_is_2547">number code is 2547</string>
+    <string name="textview">TextView</string>
+    <string name="you_are_welcom">you are welcom</string>
+</resources>
